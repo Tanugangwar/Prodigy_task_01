@@ -1,0 +1,17 @@
+🟦 Sample Run – Encryption:-
+
+Caesar Cipher Encryption/Decryption  
+Choose (e)ncrypt or (d)ecrypt: e  
+Enter your message: Hello World  
+Enter the shift value: 3  
+Encrypted message: Khoor Zruog
+
+-----
+
+🟥 Sample Run – Decryption:-
+
+Caesar Cipher Encryption/Decryption  
+Choose (e)ncrypt or (d)ecrypt: d  
+Enter your message: Khoor Zruog  
+Enter the shift value: 3  
+Decrypted message: Hello World
